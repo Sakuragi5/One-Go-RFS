@@ -6,24 +6,20 @@
     <title>One Go RFS V2</title>
     <meta name="description" content="Map-based facility management system with pin tracking, zone filtering, and real-time site visibility across Qatar.">
     
-    
-    <!-- Real PNG favicon (works on all browsers including iOS Safari) -->
-    <link rel="icon" type="image/png" href="rfs-favicon-32.png" sizes="32x32">
-    <link rel="icon" type="image/png" href="rfs-favicon-64.png" sizes="64x64">
-    <link rel="icon" type="image/png" href="rfs-favicon-192.png" sizes="192x192">
-    <link rel="apple-touch-icon" href="rfs-favicon-180.png">
-    <link rel="shortcut icon" href="rfs-favicon.ico">
+    <!-- Favicon: 📍 location pin emoji (loaded from emojiapi.dev as PNG) -->
+    <link rel="icon" type="image/png" href="https://emojiapi.dev/api/v1/1F4CD/512.png">
+    <link rel="apple-touch-icon" href="https://emojiapi.dev/api/v1/1F4CD/512.png">
     
     <!-- Open Graph (link previews in WhatsApp, Telegram, iMessage, etc.) -->
     <meta property="og:title" content="One Go RFS V2">
     <meta property="og:description" content="Map-based facility management system with pin tracking, zone filtering, and real-time site visibility across Qatar.">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="One Go RFS V2">
-    <meta property="og:image" content="rfs-favicon-512.png">
+    <meta property="og:image" content="https://emojiapi.dev/api/v1/1F4CD/512.png">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="One Go RFS V2">
     <meta name="twitter:description" content="Map-based facility management with pin tracking and zone filtering.">
-    <meta name="twitter:image" content="rfs-favicon-512.png">
+    <meta name="twitter:image" content="https://emojiapi.dev/api/v1/1F4CD/512.png">
     
     <style>
         * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -82,7 +78,7 @@
         <div id="loader-subtext">Map &amp; Facility Management</div>
     </div>
     <iframe 
-        src="https://script.google.com/macros/s/AKfycbyh6heF-2bpoOQ7XyDdBA46bt0EZnHWGdYz1Qm3Y1Zivv49paH8sNI7mvXdnDSDYn5QZg/exec" 
+        src="https://script.google.com/macros/s/AKfycbyUwItdCp8-LaVk1Yr47V59vDZbLrXWMciwA9Fcb67zVUTrdNFfkW4uwTDLkfFXMRi9/exec" 
         id="appFrame"
         allow="geolocation; camera; microphone; fullscreen; clipboard-read; clipboard-write"
         allowfullscreen
