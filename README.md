@@ -6,6 +6,7 @@
     <title>One Go RFS V2</title>
     <meta name="description" content="Map-based facility management system with pin tracking, zone filtering, and real-time site visibility across Qatar.">
     
+    
     <!-- Real PNG favicon (works on all browsers including iOS Safari) -->
     <link rel="icon" type="image/png" href="rfs-favicon-32.png" sizes="32x32">
     <link rel="icon" type="image/png" href="rfs-favicon-64.png" sizes="64x64">
